@@ -10,7 +10,7 @@
 ## Arrays
 - [Move Zeros](https://github.com/khushbu-kumari295/LeetCode/blob/main/Arrays/MoveZeros/src/leetcode_solutions/MoveZeros.java). LeetCode [Q283](https://leetcode.com/problems/move-zeroes/)
 - [RotateImage](https://github.com/khushbu-kumari295/LeetCode/blob/main/Arrays/RotateImage/src/leetcode_solutions/RotateImage.java) LeetCode [Q48](https://leetcode.com/problems/rotate-image/)
-- [ShortestWordDistance](https://github.com/khushbu-kumari295/LeetCode/tree/main/Arrays/ShortestWordDistance/src/leetcode_solutions) LeetCode[Q243](https://leetcode.com/problems/shortest-word-distance/)
+- [ShortestWordDistance](https://github.com/khushbu-kumari295/LeetCode/blob/main/Arrays/ShortestWordDistance/src/leetcode_solutions/ShortestWordDistance.java) LeetCode[Q243](https://leetcode.com/problems/shortest-word-distance/)
 - [SpiralMatrix](https://github.com/khushbu-kumari295/LeetCode/blob/main/Arrays/SpiralMatrix/src/leetcode_solutions/SpiralMatrix.java) LeetCode[Q54](https://leetcode.com/problems/spiral-matrix/)
 - [TransposeMatrix](https://github.com/khushbu-kumari295/LeetCode/blob/main/Arrays/TransposeMatrix/src/leetcode_solutions/TransposeMatrix.java) LeetCode[Q867](https://leetcode.com/problems/transpose-matrix/)
 
