@@ -21,3 +21,7 @@
  ### Assignment 03
 - [Math Operation Solution](https://github.com/khushbu-kumari295/LeetCode/tree/main/ClassConcepts/Assignment03/MathOperationSolution/src/mathoperation)
 - [Psychiatrist Moody Solution](https://github.com/khushbu-kumari295/LeetCode/tree/main/ClassConcepts/Assignment03/PsychiatristMoodySolution/src/psychiatristmoodysolution)
+
+## Assignment 04
+- [ThreadSafeLinkedList](https://github.com/khushbu-kumari295/LeetCode/tree/main/LinkedList)
+- [Traffic Light Controlled Intersection - LeetCode ](https://github.com/khushbu-kumari295/LeetCode/tree/main/TrafficLightControlledIntersection) 
