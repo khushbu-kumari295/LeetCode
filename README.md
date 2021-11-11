@@ -17,3 +17,7 @@
 ## Class Concepts
 - [ShapeTester](https://github.com/khushbu-kumari295/LeetCode/tree/main/ClassConcepts/ShapeTester/src/leetcode_solutions)
 - [Sum](https://github.com/khushbu-kumari295/LeetCode/blob/main/ClassConcepts/Sum/src/leetcode_solutions/Sum.java)
+ 
+ ### Assignment 03
+- [Math Operation Solution](https://github.com/khushbu-kumari295/LeetCode/tree/main/ClassConcepts/Assignment03/MathOperationSolution/src/mathoperation)
+- [Psychiatrist Moody Solution](https://github.com/khushbu-kumari295/LeetCode/tree/main/ClassConcepts/Assignment03/PsychiatristMoodySolution/src/psychiatristmoodysolution)
