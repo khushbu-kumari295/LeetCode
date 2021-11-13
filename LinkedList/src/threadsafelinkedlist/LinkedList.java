@@ -2,6 +2,9 @@ package threadsafelinkedlist;
 
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
+/**
+ * code to implement Thread safe LinkedList
+ */
 public class LinkedList implements ThreadSafeLinkedList {
     private LinkNode head;
 
