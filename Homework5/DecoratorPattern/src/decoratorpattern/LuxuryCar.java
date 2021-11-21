@@ -1,12 +1,13 @@
 package decoratorpattern;
 
-public class LuxuryCar extends BasicCar implements Car {
-    public LuxuryCar(BasicCar basicCar) {
-        basicCar.assemble();
+public class LuxuryCar extends CarDecorator implements Car {
+    public LuxuryCar(Car car) {
+        super(car);
     }
 
     @Override
     public void assemble() {
-        System.out.print(" Adding features of Luxury Car.");
+        car.assemble();
+        System.out.print("Adding features of Luxury Car. ");
     }
 }
