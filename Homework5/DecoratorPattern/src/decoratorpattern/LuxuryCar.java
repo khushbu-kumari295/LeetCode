@@ -7,7 +7,7 @@ public class LuxuryCar extends CarDecorator implements Car {
 
     @Override
     public void assemble() {
-        car.assemble();
+        baseCar.assemble();
         System.out.print("Adding features of Luxury Car. ");
     }
 }

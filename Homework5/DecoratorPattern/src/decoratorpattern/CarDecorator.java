@@ -1,14 +1,11 @@
 package decoratorpattern;
 
-public class CarDecorator implements Car {
-    protected Car car;
+public abstract class CarDecorator implements Car {
+    protected Car baseCar;
 
     public CarDecorator(Car car) {
-        this.car = car;
+        this.baseCar = car;
     }
 
-    @Override
-    public void assemble() {
-        car.assemble();
-    }
+    public abstract void assemble();
 }
