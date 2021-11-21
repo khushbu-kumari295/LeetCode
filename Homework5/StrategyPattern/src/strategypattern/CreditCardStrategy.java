@@ -2,7 +2,7 @@ package strategypattern;
 
 public class CreditCardStrategy implements PaymentStrategy {
 
-    private String cardNumber;
+    public String cardNumber;
 
     public CreditCardStrategy(String cardNumber) {
         this.cardNumber = cardNumber;

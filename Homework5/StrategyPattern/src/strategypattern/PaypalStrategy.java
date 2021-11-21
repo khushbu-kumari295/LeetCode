@@ -1,7 +1,7 @@
 package strategypattern;
 
 public class PaypalStrategy implements PaymentStrategy {
-    private String email;
+    public String email;
 
     public PaypalStrategy(String email) {
         this.email = email;
