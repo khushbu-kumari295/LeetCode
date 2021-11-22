@@ -26,7 +26,7 @@
 - [ThreadSafeLinkedList](https://github.com/khushbu-kumari295/LeetCode/tree/main/LinkedList)
 - [Traffic Light Controlled Intersection - LeetCode ](https://github.com/khushbu-kumari295/LeetCode/tree/main/TrafficLightControlledIntersection) 
 
-## Design Patterns
+## Design Patterns [Homework 5]
 - [Decorator Pattern](https://github.com/khushbu-kumari295/LeetCode/tree/main/Homework5/DecoratorPattern/src/decoratorpattern)
 - [Façade Design Pattern](https://github.com/khushbu-kumari295/LeetCode/tree/main/Homework5/Fa%C3%A7adeDesignPattern/src/fa%C3%A7adedesignpattern)
 - [Strategy pattern](https://github.com/khushbu-kumari295/LeetCode/tree/main/Homework5/StrategyPattern/src/strategypattern)
