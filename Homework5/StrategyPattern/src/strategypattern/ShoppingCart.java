@@ -3,11 +3,11 @@ package strategypattern;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ShoppingCart extends Item {
+public class ShoppingCart {
     List<Item> items;
 
     public ShoppingCart() {
-        this.items = new ArrayList<Item>();
+        this.items = new ArrayList<>();
 
     }
 
