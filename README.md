@@ -30,3 +30,7 @@
 - [Decorator Pattern](https://github.com/khushbu-kumari295/LeetCode/tree/main/Homework5/DecoratorPattern/src/decoratorpattern)
 - [Façade Design Pattern](https://github.com/khushbu-kumari295/LeetCode/tree/main/Homework5/Fa%C3%A7adeDesignPattern/src/fa%C3%A7adedesignpattern)
 - [Strategy pattern](https://github.com/khushbu-kumari295/LeetCode/tree/main/Homework5/StrategyPattern/src/strategypattern)
+
+## Info5100 [Homework 6]
+- [Question 1. Solution](https://github.com/khushbu-kumari295/LeetCode/tree/main/Info5100Homework6/ComparatorSolution/src/comparatorsolution)
+- [Question 2. Solution](https://github.com/khushbu-kumari295/LeetCode/tree/main/Info5100Homework6/DrivingLicenseApplication/src/drivinglicencesolution)
